@@ -5,7 +5,7 @@
 
 Note : 
        for easy understand firstly read this file once
-       / follow steps in new project from this [ReadMe]() file or from this [Video]()
+       / follow steps in new project from this [ReadMe](https://github.com/AyaBaghdadi/sub_projects_as_a_target) file or from this [Video]()
 
 
 1. Go to Project -> Target Section -> Plus add Target -> Select App -> Add new app
