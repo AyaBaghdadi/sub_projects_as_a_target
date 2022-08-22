@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		100B2D7428B417060034C937 /* img2.png in Resources */ = {isa = PBXBuildFile; fileRef = 100B2D7328B417060034C937 /* img2.png */; };
+		100B2D7528B417060034C937 /* img2.png in Resources */ = {isa = PBXBuildFile; fileRef = 100B2D7328B417060034C937 /* img2.png */; };
 		105EA15226EB84F500638DE4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105EA15126EB84F500638DE4 /* ViewController.swift */; };
 		1091DCD228B3E85E004947CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1091DCD128B3E85E004947CB /* AppDelegate.swift */; };
 		1091DCD428B3E85E004947CB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1091DCD328B3E85E004947CB /* SceneDelegate.swift */; };
@@ -41,6 +43,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		100B2D7328B417060034C937 /* img2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img2.png; sourceTree = "<group>"; };
 		105EA15126EB84F500638DE4 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1091DCCF28B3E85E004947CB /* sub_project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sub_project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1091DCD128B3E85E004947CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -98,6 +101,7 @@
 			children = (
 				10C2890426CEECAB000724E6 /* README.md */,
 				1091DCE828B40DD7004947CB /* img1.png */,
+				100B2D7328B417060034C937 /* img2.png */,
 				10C288EF26CEEC9E000724E6 /* Technicalisto_Project */,
 				1091DCD028B3E85E004947CB /* sub_project */,
 				10C288EE26CEEC9E000724E6 /* Products */,
@@ -208,6 +212,7 @@
 			files = (
 				1091DCDE28B3E861004947CB /* LaunchScreen.storyboard in Resources */,
 				1091DCEF28B4102F004947CB /* Main.storyboard in Resources */,
+				100B2D7528B417060034C937 /* img2.png in Resources */,
 				1091DCEA28B40DD7004947CB /* img1.png in Resources */,
 				1091DCDB28B3E861004947CB /* Assets.xcassets in Resources */,
 				1091DCD928B3E85E004947CB /* Main_Sub.storyboard in Resources */,
@@ -224,6 +229,7 @@
 				10C288FA26CEEC9F000724E6 /* Assets.xcassets in Resources */,
 				10C2890526CEECAB000724E6 /* README.md in Resources */,
 				10C288F826CEEC9E000724E6 /* Main.storyboard in Resources */,
+				100B2D7428B417060034C937 /* img2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

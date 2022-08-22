@@ -10,6 +10,8 @@ Note :
 
 1. Go to Project -> Target Section -> Plus add Target -> Select App -> Add new app
 
+![screen](img2.png)
+
 2. Add Your sub project Files to your New Sub Target
 
 3. Clean & Build for certain No issues
