@@ -22,7 +22,7 @@ Note :
 Note : Must 2 Target have no the same name files if you will use it
 ```
 
-5. Call Files inside [ Main App -> Technicalisto_Project] like navigate to SubVC from ViewControllrt like this
+5. Call Files inside [ Main App -> Technicalisto_Project ] like navigate to SubVC from ViewControllrt like this
 
 ```
 let storyboard = UIStoryboard(name: "Main_Sub", bundle: nil)
