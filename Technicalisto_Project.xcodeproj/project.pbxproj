@@ -15,11 +15,9 @@
 		1091DCD928B3E85E004947CB /* Main_Sub.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1091DCD728B3E85E004947CB /* Main_Sub.storyboard */; };
 		1091DCDB28B3E861004947CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1091DCDA28B3E861004947CB /* Assets.xcassets */; };
 		1091DCDE28B3E861004947CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1091DCDC28B3E861004947CB /* LaunchScreen.storyboard */; };
-		1091DCE528B3E8A2004947CB /* SubVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1091DCE428B3E8A2004947CB /* SubVC.swift */; };
 		1091DCE628B3E8A2004947CB /* SubVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1091DCE428B3E8A2004947CB /* SubVC.swift */; };
 		1091DCE928B40DD7004947CB /* img1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1091DCE828B40DD7004947CB /* img1.png */; };
 		1091DCEA28B40DD7004947CB /* img1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1091DCE828B40DD7004947CB /* img1.png */; };
-		1091DCED28B40F9B004947CB /* Main_Sub.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1091DCD728B3E85E004947CB /* Main_Sub.storyboard */; };
 		1091DCEE28B41026004947CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105EA15126EB84F500638DE4 /* ViewController.swift */; };
 		1091DCEF28B4102F004947CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10C288F626CEEC9E000724E6 /* Main.storyboard */; };
 		10C288F126CEEC9E000724E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C288F026CEEC9E000724E6 /* AppDelegate.swift */; };
@@ -223,7 +221,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1091DCED28B40F9B004947CB /* Main_Sub.storyboard in Resources */,
 				10C288FD26CEEC9F000724E6 /* LaunchScreen.storyboard in Resources */,
 				1091DCE928B40DD7004947CB /* img1.png in Resources */,
 				10C288FA26CEEC9F000724E6 /* Assets.xcassets in Resources */,
@@ -252,7 +249,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				10C288F126CEEC9E000724E6 /* AppDelegate.swift in Sources */,
-				1091DCE528B3E8A2004947CB /* SubVC.swift in Sources */,
 				105EA15226EB84F500638DE4 /* ViewController.swift in Sources */,
 				10C288F326CEEC9E000724E6 /* SceneDelegate.swift in Sources */,
 			);
